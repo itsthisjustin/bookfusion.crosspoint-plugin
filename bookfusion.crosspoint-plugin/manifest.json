@@ -1,0 +1,15 @@
+{
+  "name": "bookfusion",
+  "title": "BookFusion",
+  "mount": "settings",
+  "description": "Browse and download your BookFusion library on the device.",
+  "author": "Diirge",
+  "version": "1.3.0",
+  "files": [
+    "manifest.json",
+    "device.json",
+    "plugin.js",
+    "README.md",
+    "DETAILS.md"
+  ]
+}

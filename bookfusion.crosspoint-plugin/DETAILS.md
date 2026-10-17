@@ -1,0 +1,7 @@
+# BookFusion
+
+Browse your BookFusion library and download books directly to your CrossPoint reader. Sign in using a device authorization code, then browse All Books, Currently Reading, Favorites, Plan to Read, or Completed, or search for titles and authors.
+
+Books download to `/BookFusion/` on the SD card. Each download includes a small metadata sidecar with its BookFusion ID for compatible KOReader Sync progress reporting, when configured separately.
+
+Requires a BookFusion account. The authorization token is stored on the SD card.
